@@ -1,0 +1,5 @@
+{
+  "version": "5.5.1",
+  "downloadUrl": "https://github.com/topodigitalpro/mi-app-updates/releases/download/v5.5.1/TopoDigitalPro_V5.5.1.exe",
+  "changes": "• Integración del sistema de auto-actualización desde el plugin.\n• Optimizaciones generales en Civil 3D."
+}
