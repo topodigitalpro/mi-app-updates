@@ -1,6 +1,6 @@
 # Política de Privacidad — TopoDigitalPro
 
-Última actualización: 9 de octubre de 2026
+Última actualización: 10 de octubre de 2026
 
 ## 1. Quién es el responsable
 
@@ -38,7 +38,7 @@ Como ocurre con cualquier conexión a internet, los servicios mencionados (Googl
 
 ## 5. Datos que se guardan en tu equipo
 
-El plugin crea la carpeta `%APPDATA%\TopoDigitalPro\` con la confirmación de licencia, tus preferencias y archivos de diagnóstico (log). **No se envían automáticamente.** Si solicitas soporte, podemos pedirte un archivo de diagnóstico; eres tú quien decide si lo envías.
+El plugin crea la carpeta `%APPDATA%\TopoDigitalPro\` con la confirmación de licencia, tus preferencias y archivos de diagnóstico (log). Para controlar el período de prueba y la fecha, también guarda marcas firmadas en `%LOCALAPPDATA%\TopoDigitalPro\cache\` y en una clave del registro de tu usuario de Windows (`HKEY_CURRENT_USER\Software\TopoDigitalPro`). **No se envían automáticamente.** Si solicitas soporte, podemos pedirte un archivo de diagnóstico; eres tú quien decide si lo envías.
 
 ## 6. Con quién compartimos los datos
 
@@ -64,7 +64,7 @@ Si cambiamos la forma en que usamos los datos, actualizaremos esta página y la 
 
 # Privacy Policy — TopoDigitalPro
 
-Last updated: October 9, 2026
+Last updated: October 10, 2026
 
 ## 1. Who is responsible
 
@@ -102,7 +102,7 @@ As with any internet connection, the services above (Google and GitHub) can see 
 
 ## 5. Data stored on your computer
 
-The plugin creates the folder `%APPDATA%\TopoDigitalPro\` with the license confirmation, your preferences and diagnostic (log) files. **They are not sent automatically.** If you request support, we may ask you for a diagnostic file; it is up to you whether to send it.
+The plugin creates the folder `%APPDATA%\TopoDigitalPro\` with the license confirmation, your preferences and diagnostic (log) files. To control the trial period and the date, it also stores signed markers in `%LOCALAPPDATA%\TopoDigitalPro\cache\` and in a key in your Windows user registry (`HKEY_CURRENT_USER\Software\TopoDigitalPro`). **They are not sent automatically.** If you request support, we may ask you for a diagnostic file; it is up to you whether to send it.
 
 ## 6. Who we share data with
 
