@@ -29,7 +29,7 @@ TopoDigitalPro is an AutoCAD and Civil 3D plugin published by TopoDigitalPro (co
 
 **License data.** To manage the demo and licenses, the plugin generates a machine identifier (hardware ID). On first run, and when you activate a license, the plugin sends this identifier to the TopoDigitalPro licensing server to register the start of the demo and to validate your activation key. Demo and activation information is also stored locally on your computer (in a data file, the Windows registry and local application data). We use this information only to issue and validate licenses, prevent abuse of the demo period and provide support. If you request a license by WhatsApp or email, the machine identifier and the contact details you send us are used only to issue your key and provide support.
 
-**Updates.** The plugin may check for new versions by requesting a public version file hosted on GitHub. This request is subject to GitHub's own privacy statement.
+**Updates.** The plugin queries GitHub's public service (api.github.com) to find out whether a new version exists. The request includes the plugin name and version. We send no personal data; GitHub, like any website, receives your IP address under its own privacy statement.
 
 **Payments and donations.** Payments and donations are processed by PayPal. TopoDigitalPro does not receive or store your card data.
 
@@ -47,7 +47,7 @@ TopoDigitalPro es un plugin para AutoCAD y Civil 3D publicado por TopoDigitalPro
 
 **Datos de licencia.** Para gestionar la demo y las licencias, el plugin genera un identificador del equipo (ID de hardware). En la primera ejecución, y cuando activas una licencia, el plugin envía este identificador al servidor de licencias de TopoDigitalPro para registrar el inicio de la demo y validar tu clave de activación. La información de la demo y de la activación también se guarda localmente en tu computador (en un archivo de datos, en el registro de Windows y en los datos locales de la aplicación). Usamos esta información solo para emitir y validar licencias, evitar el abuso del período de demo y brindar soporte. Si solicitas una licencia por WhatsApp o correo, el identificador del equipo y los datos de contacto que nos envíes se usan solo para emitir tu clave y brindarte soporte.
 
-**Actualizaciones.** El plugin puede consultar si hay versiones nuevas solicitando un archivo público de versión alojado en GitHub. Esa consulta se rige por la declaración de privacidad de GitHub.
+**Actualizaciones.** El plugin consulta el servicio público de GitHub (api.github.com) para saber si existe una versión nueva. La solicitud incluye el nombre y la versión del plugin. No enviamos datos personales; GitHub, como cualquier sitio web, recibe tu dirección IP según su propia declaración de privacidad.
 
 **Pagos y donaciones.** Los pagos y las donaciones los procesa PayPal. TopoDigitalPro no recibe ni guarda los datos de tu tarjeta.
 
