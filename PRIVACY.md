@@ -1,22 +1,3 @@
-# TopoDigitalPro
-
-Plugin para AutoCAD y Civil 3D orientado a topografía, superficies, puntos COGO, explanaciones y automatización de procesos.
-
-## Apoya el proyecto
-
-Si este software te ha sido útil y quieres apoyar el desarrollo de nuevas funciones, mejoras y actualizaciones, puedes hacer una donación a través de PayPal.
-
-También puedes donar directamente aquí:
-https://www.paypal.com/donate/?hosted_button_id=HRWAUR8F5FW8Y
-
-## Descargas
-
-Las versiones oficiales del instalador están disponibles en la sección Releases de este repositorio.
-
-Gracias por apoyar TopoDigitalPro y contribuir al desarrollo de herramientas para la comunidad de topografía e ingeniería.
-
----
-
 # Privacy Policy / Política de Privacidad
 
 Last updated: 2026-10-10 / Última actualización: 2026-10-10
