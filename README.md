@@ -23,13 +23,9 @@ Las versiones oficiales del instalador están disponibles en la sección Release
 
 Gracias por apoyar TopoDigitalPro y contribuir al desarrollo de herramientas para la comunidad de topografía e ingeniería.
 
-## Política de privacidad y términos / Privacy Policy and Terms
-
 ## Contacto
 
 topodigitalpro@gmail.com
 
 - [Política de Privacidad / Privacy Policy](PRIVACY.md) (Español / English)
 - [Términos de uso / Terms of Use](TERMS.md)
-
-Contacto / Contact: topodigitalpro@gmail.com
